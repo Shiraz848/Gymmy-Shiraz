@@ -2,7 +2,7 @@ import threading
 import time
 import numpy as np
 import cv2
-import pyzed.sl as sl
+#import pyzed.sl as sl
 import Settings as s  # Controlled shutdown
 
 

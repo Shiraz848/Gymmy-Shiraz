@@ -5,7 +5,7 @@ import random
 from datetime import datetime, timedelta
 
 import pygame
-import pyzed.sl as sl
+#import pyzed.sl as sl
 import threading
 import socket
 from Audio import say, get_wav_duration
